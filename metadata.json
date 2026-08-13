@@ -1,0 +1,6 @@
+{
+  "name": "CareFlow",
+  "description": "An intelligent healthcare workflow platform connecting appointments, EMR, laboratories, pharmacies, billing, and AI medical report analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
